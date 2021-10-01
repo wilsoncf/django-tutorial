@@ -133,5 +133,3 @@ dmypy.json
 */_pycache_/
 *.pyc
 
-# Migrations directories
-*/migrations/
